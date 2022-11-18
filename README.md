@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harishmeesala
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning about new software technologies
 - 🌱 I’m currently learning microsoft azure
 - 💞️ I’m looking to collaborate with software company as employe
 - 📫 How to reach me harishmeesala0822@gmail.com
